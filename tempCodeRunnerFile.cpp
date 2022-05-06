@@ -10,3 +10,4 @@
     // cout<<"address of a "<< &a<<endl;
     // cout<<"address of p "<< &p <<endl;
     // cout<<"address of p "<< p <<endl;
+    //pointer basics
