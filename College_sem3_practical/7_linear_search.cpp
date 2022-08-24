@@ -38,3 +38,14 @@ int main()
     
     return 0;
 }
+
+// ***** OUTPUT *****
+/*
+Enter the number you want to search
+10
+Element found
+
+Enter the number you want to search
+20
+Element not found
+*/

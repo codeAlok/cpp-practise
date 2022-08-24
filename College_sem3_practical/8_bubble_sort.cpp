@@ -40,7 +40,7 @@ int main()
 
     bubbleSort(arr, size); // calling bubbleSort function
 
-    cout<<"Array after sorting "<<endl;
+    cout<<"Array after  bubble sort "<<endl;
     for(int i=0; i<size; i++)
     {
         cout<<arr[i] <<" ";
